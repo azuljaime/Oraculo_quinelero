@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quinelero", "quinelero.csproj", "{F6E27A88-6CD3-497D-BE2A-9672FB5E614C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6E27A88-6CD3-497D-BE2A-9672FB5E614C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E27A88-6CD3-497D-BE2A-9672FB5E614C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E27A88-6CD3-497D-BE2A-9672FB5E614C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E27A88-6CD3-497D-BE2A-9672FB5E614C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23E24BA0-F0AC-42E7-9C86-16B18A923A69}
+	EndGlobalSection
+EndGlobal

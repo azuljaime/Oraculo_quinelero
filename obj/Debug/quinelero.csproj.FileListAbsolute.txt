@@ -1,0 +1,14 @@
+C:\Users\a994159\source\repos\quinelero\bin\Debug\quinelero.exe.config
+C:\Users\a994159\source\repos\quinelero\bin\Debug\quinelero.exe
+C:\Users\a994159\source\repos\quinelero\bin\Debug\quinelero.pdb
+C:\Users\a994159\source\repos\quinelero\obj\Debug\quinelero.csproj.AssemblyReference.cache
+C:\Users\a994159\source\repos\quinelero\obj\Debug\quinelero.Form1.resources
+C:\Users\a994159\source\repos\quinelero\obj\Debug\quinelero.Properties.Resources.resources
+C:\Users\a994159\source\repos\quinelero\obj\Debug\quinelero.csproj.GenerateResource.cache
+C:\Users\a994159\source\repos\quinelero\obj\Debug\quinelero.csproj.CoreCompileInputs.cache
+C:\Users\a994159\source\repos\quinelero\obj\Debug\quinelero.exe
+C:\Users\a994159\source\repos\quinelero\obj\Debug\quinelero.pdb
+C:\Users\a994159\source\repos\quinelero\bin\Debug\quinelero.exe.manifest
+C:\Users\a994159\source\repos\quinelero\bin\Debug\quinelero.application
+C:\Users\a994159\source\repos\quinelero\obj\Debug\quinelero.exe.manifest
+C:\Users\a994159\source\repos\quinelero\obj\Debug\quinelero.application
