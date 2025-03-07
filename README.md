@@ -1,4 +1,4 @@
-# Quinelero_net# Oraculo_quinelero
+# Oraculo_quinelero
 
 Este proyecto en principio trata acerca de un juego hecho con WindowsForms.
 
